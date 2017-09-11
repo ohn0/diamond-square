@@ -1,7 +1,7 @@
 #include "image_handler.h"
 #include <cmath>
 #include <iostream>
-#define MAX_ITERATIONS 100
+#define MAX_ITERATIONS 10000
 float mandelbrotValue(float, float);
 
 int main(int argc, char* args[]){
